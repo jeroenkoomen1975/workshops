@@ -1,0 +1,16 @@
+# Gegevens van studenten en docenten: NOOIT in GitHub zetten (repository is openbaar)
+.data/
+backups/
+
+# Lokale instellingen en geheimen
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Downloads en archieven
+*.zip
